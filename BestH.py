@@ -90,17 +90,17 @@ def o():
 
     opt = input('\n   \x1b[1;32m Choose option >>> ')
 
-    if opt == '1','01':
+    if opt == '1':
 
          i()
 
-    if None == '2','02':
+    if None == '2''02':
 
         os.system('xdg-open t.me/Best_Hacker00420')
 
         return None
 
-    if None == '3','03':
+    if None == '3''03':
 
         os.system('xdg-open https://www.facebook.com/Best_hacker00420')
 
