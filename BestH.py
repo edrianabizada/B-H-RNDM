@@ -94,13 +94,13 @@ def o():
 
          i()
 
-    if None == '2''02':
+    if None == '2':
 
         os.system('xdg-open t.me/Best_Hacker00420')
 
         return None
 
-    if None == '3''03':
+    if None == '3':
 
         os.system('xdg-open https://www.facebook.com/Best_hacker00420')
 
@@ -338,7 +338,7 @@ logo =                                          ("""
 
  
 
-\033[1;37m================= \33[32;45mBEST T\33[0;m =====================
+\033[1;37m================= \33[32;45mBEST Hacker\33[0;m =====================
 
 \033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33mBEST\33[0;m\033[1;32m HACKER \033[1;33mEDRIS NABIZADA\33[0;m
 
@@ -663,7 +663,7 @@ def rcrack(uid,pwx,tl):
 
                 cid = coki[7:22]
 
-                print('    \033[1;32m(B-T-OK🔥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
+                print('    \033[1;32m(B-H-OK🔥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
 
                 cek_apk(session,coki)
 
