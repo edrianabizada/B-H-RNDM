@@ -304,37 +304,37 @@ today = date.today()
 
 logo =                                          ("""   
 
-\033[1;32m       BBBBBBBBBBBBBBBBB       HHHHHHHHHHHHHHHHHHHHH
+\033[1;32m       BBBBBBBBBBBBBBBBB       HHHHHHHH       HHHHHHHH
 
-\033[1;35m       B::::::::::::::::B      H:::::::::::::::::::::H
+\033[1;35m       B::::::::::::::::B      H::::::H        H::::::H
 
-\033[1;35m       B::::::BBBBBB:::::B     H:::::::::::::::::::::H
+\033[1;35m       B::::::BBBBBB:::::B     H::::::H        H::::::H
 
-\033[1;32m       B:::::B     B:::::B     H:::::H:::::::HH:::::H
+\033[1;32m       B:::::B     B:::::B     H::::::H        H::::::H
 
-\033[1;32m       B::::B       B:::::B    HHHHH  H:::::H  HHHHH
+\033[1;32m       B::::B       B:::::B    HHHHHHHH        HHHHHHHH
 
-\033[1;35m       B::::B      B:::::B     HHHHHH  H:::::H   HHHHH
+\033[1;35m       B::::B      B:::::B     HHHHHHHH        HHHHHHHH
 
-\033[1;35m       B::::BBBBBB:::::B               H:::::H
+\033[1;35m       B::::BBBBBB:::::B       H::::::H HHHHHH H::::::H
 
-\033[1;32m       B:::::::::::::BB                H:::::H
+\033[1;32m       B:::::::::::::BB        H::::::H HHHHHH H::::::H
 
-\033[1;32m       B::::BBBBBB:::::B               H:::::H
+\033[1;32m       B::::BBBBBB:::::B       H::::::H HHHHHH H::::::H
 
-\033[1;35m       B::::B      B:::::B             H:::::H
+\033[1;35m       B::::B      B:::::B     H::::::H        H::::::H
 
-\033[1;35m       B::::B       B:::::B            H:::::H
+\033[1;35m       B::::B       B:::::B    H::::::H        H::::::H
 
-\033[1;32m       B::::B      B:::::B             H:::::H
+\033[1;32m       B::::B      B:::::B     H::::::H        H::::::H
 
-\033[1;32m       BB:::::BBBBBB::::::B          HH:::::::HH
+\033[1;32m       BB:::::BBBBBB::::::B    H::::::H        H::::::H
 
-\033[1;35m       B:::::::::::::::::B           H:::::::::H
+\033[1;35m       B:::::::::::::::::B     H::::::H        H::::::H
 
-\033[1;35m       B::::::::::::::::B            H:::::::::H
+\033[1;35m       B::::::::::::::::B      H::::::H        H::::::H
 
-\033[1;32m       BBBBBBBBBBBBBBBBB             HHHHHHHHHHH   
+\033[1;32m       BBBBBBBBBBBBBBBBB       HHHHHHHH        HHHHHHHH   
 
  
 
