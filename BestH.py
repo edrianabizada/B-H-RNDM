@@ -102,7 +102,7 @@ def o():
 
     if None == '3','03':
 
-        os.system('xdg-open https://www.facebook.com/Best_hacker00420)
+        os.system('xdg-open https://www.facebook.com/Best_hacker00420')
 
        
        
