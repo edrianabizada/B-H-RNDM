@@ -96,7 +96,7 @@ def o():
 
     if None == '2','02':
 
-        os.system('xdg-open t.me/Best_Hacker00420)
+        os.system('xdg-open t.me/Best_Hacker00420')
 
         return None
 
