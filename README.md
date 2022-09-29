@@ -5,7 +5,7 @@
 
 #### INSTALL TOOL ON TERMUX
 ```python
-
+$ rm -rf Bh
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pip install mechanize requests bs4
